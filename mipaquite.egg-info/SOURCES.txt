@@ -1,0 +1,10 @@
+setup.py
+mipaquite.egg-info/PKG-INFO
+mipaquite.egg-info/SOURCES.txt
+mipaquite.egg-info/dependency_links.txt
+mipaquite.egg-info/top_level.txt
+paquete/__init__.py
+paquete/dividir.py
+paquete/multiplicar.py
+paquete/restar.py
+paquete/sumar.py
